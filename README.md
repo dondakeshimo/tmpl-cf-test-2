@@ -8,8 +8,3 @@ aaa
 abc
 
 hhh
-
-ccc
-bbb
-
-aaabb
